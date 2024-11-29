@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neslihan Sogur</h1>
+<h1 align="center">Hi 👋, I'm Neslihan</h1>
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neslisogur&label=Profile%20views&color=0e75b6&style=flat" alt="neslisogur" /> </p>
